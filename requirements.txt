@@ -6,4 +6,6 @@ Flask
 scikit-learn
 tensorflow
 keras
+xgboost
+keras
 -e .
